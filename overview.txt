@@ -1,0 +1,49 @@
+indelling https://mr-bubble.nl/ met duidelijk telefoon nr vermeld als besproken
+
+Bij Proper Tapijtreiniging kunt u terecht voor het reinigen van uw vloerkleden en tapijt op locatie. 
+Naast tapijtreiniging zijn wij schoonmaakbedrijf voor reiniging aan huis van al uw stoffen Oppervlaktes. 
+- binnen 1 dag een vrijblijvende offerte op maat. . Een 100% Milieuvriendelijke tapijtreiniging!
+
+
+                                     main page
+Tapijt reiniging Op Locatie Bij Particulieren en Bedrijven!
+
+Vloerkleed tapijtreiniging!
+Neem contact met ons op!
+Heeft u een vies tapijt, vloerkleed, gestoffeerde trap, vloerbedekking, loper of tapijttegels en is deze smoezelig en vuil geworden? 
+Dan bent u bij proper Tapijtreiniging aan het juiste adres! Onze tapijtreinigers reinigen dagelijks vast tapijt, 
+vloerbedekking, tapijt, gestoffeerde trappen, lopers en tapijttegels. 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+achtergrond kleur kan gewoon precies hetzelfde als op de website{wit en blauw) .
+De rubrieken kunnen sow blijven staan (Auto interieur laten reinigen) en (matras reinigen) kunnen verwijdert worden.
+onder de rubrieken kan direct vanaf prijs worden toegevoegd,alle tarieven onder de pagina blijven hetzelfde met toevoeging VANAF.
+-openingstijden blijven hetzelfde
+-buiten antwerpen hanteren wij 100 een minimum van 100 euro
+-reviews worden weggelaten
+
+
+TODO header href to gsm
+
+
+
+Trusted cleaning service
+-	Navbar
+-	Header foto
+-	Contact page
+Van Heerden
+
+
+
+
+
+//TODO
+-	Header img
+o	Button voor contact, prijzen
+-	Diensten
+o	Div voor alle dinsten op pagina zelf met bijhorende info
+-	Werkt reininging
+o	Filmpje + tekst
+-	Nav contact gegevens
+o	Contact geg
+o	gmex
