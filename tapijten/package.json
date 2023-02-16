@@ -1,0 +1,19 @@
+{
+  "name": "tapijten",
+  "version": "1.0.0",
+  "description": "Statische website voor cleaing bedrijf in antwerpen.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefVanNieuwenhove/vincent_deam.git"
+  },
+  "author": "Stef Van Nieuwenhove",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StefVanNieuwenhove/vincent_deam/issues"
+  },
+  "homepage": "https://github.com/StefVanNieuwenhove/vincent_deam#readme"
+}
